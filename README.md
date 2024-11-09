@@ -26,19 +26,6 @@ This project demonstrates an eCommerce data analysis workflow using SQL and Pyth
 └── requirements.txt             # Python dependencies
 ```
 
-## Installation
-
-1. Set up the SQL database by running the SQL script in the `data/` folder to create and populate the database.
-2. Install the required Python libraries using:
-
-    ```
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Establish a database connection using the `database_connection.py` script. Modify the connection parameters to match your database configuration.
-2. Execute the `ecommerce_analysis.ipynb` notebook to perform data analysis and generate visualizations.
 
 ## Analysis and Visualization
 
